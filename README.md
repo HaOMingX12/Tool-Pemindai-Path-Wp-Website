@@ -49,9 +49,9 @@ Tool ini telah dienkripsi menggunakan **PyArmor** untuk melindungi kode sumber d
 
 ## **Sumber dan Kontak**
 
-- **Pengembang:** [HaOMing_X12]
-- **Kontak:** [freedomxploitwashere@protonmail.com]
-- **Repositori:** [freedomxploit.blogspot.com]
+- **Pengembang:** HaOMing_X12
+- **Kontak:** freedomxploitwashere@protonmail.com
+- **Repositori:** https://freedomxploit.blogspot.com
 
 ---
 
