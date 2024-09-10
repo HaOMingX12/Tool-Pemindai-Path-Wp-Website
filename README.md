@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/2258033b-601d-4c47-b28e-609c2934cbe5)
 
-# **Tool Pemindai Path Website**
+# **Tool Pemindai Path Wp Website**
 
 ## **Deskripsi Tool**
 
