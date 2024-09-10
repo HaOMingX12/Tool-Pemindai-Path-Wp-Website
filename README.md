@@ -42,3 +42,18 @@ Tool ini dirancang untuk memindai path di situs web untuk mencari file dan direk
 
 ### **scan_success.txt**
 
+
+## **Informasi Enkripsi**
+
+Tool ini telah dienkripsi menggunakan **PyArmor** untuk melindungi kode sumber dan mencegah modifikasi yang tidak sah. Jika Anda ingin melakukan perubahan pada kode, Anda perlu menghubungi pengembang untuk mendapatkan versi sumber yang tidak terenkripsi.
+
+## **Sumber dan Kontak**
+
+- **Pengembang:** [HaOMing_X12]
+- **Kontak:** [freedomxploitwashere@protonmail.com]
+- **Repositori:** [freedomxploit.blogspot.com]
+
+---
+
+**Catatan:** terima kasih telah memakai buatan saya, dan saya harap dapat membantu anda di masa yang akan datang.
+
